@@ -29,7 +29,7 @@ I also have a good understanding of related tools and technologies, and I am alw
 
 <h2 align="center">👨‍💻 Languages and Tools</h2>
 
-<table align="center">
+<table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/><br>Bash</td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/><br>Linux</td>
