@@ -1,9 +1,5 @@
-
 <p align="center">
-  <script
-  src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.6.2/dist/dotlottie-wc.js"
-  type="module"
-></script> width="400" alt="devops-sticker">
+  <img src="[https://lottie.host/xxxx/your-animation.gif](https://lottie.host/embed/e1aac0bd-8c83-4bb1-8371-2c0bb624c858/OCNTfZRwx3.lottie)" width="400" alt="Coding Animation">
 </p>
 
 <h1 align="center">Hi 👋, I'm PHET</h1>
