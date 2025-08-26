@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFibGtiZWxsMXZhczR3cGwwamRycGljNm40amNrZGduMTRneG45aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UmWpVKOvNEv6CHVtl7/giphy.gif" width="120" heigh="130" alt="Coding Animation">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFibGtiZWxsMXZhczR3cGwwamRycGljNm40amNrZGduMTRneG45aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UmWpVKOvNEv6CHVtl7/giphy.gif" width="150" heigh="160" alt="Coding Animation">
 </p>
-
 <h1 align="center">Hi 👋, I'm PHET</h1>
 <h3 align="center">DevOps & Software Engineer </h3>
 <p align="center">
