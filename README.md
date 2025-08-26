@@ -56,8 +56,19 @@ I also have a good understanding of related tools and technologies, and I am alw
 </table>
 
 ## 🏆My Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixsphet&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixsphet&layout=compact&theme=radical)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=pixsphet&show_icons=true&theme=radical&hide_border=true" 
+    alt="GitHub Stats" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixsphet&layout=compact&theme=radical&hide_border=true" 
+    alt="Top Languages" 
+    height="170"
+  />
+</p>
+
 
 ---
 
