@@ -1,3 +1,11 @@
+
+<p align="center">
+  <script
+  src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.6.2/dist/dotlottie-wc.js"
+  type="module"
+></script> width="400" alt="devops-sticker">
+</p>
+
 <h1 align="center">Hi 👋, I'm PHET</h1>
 <h3 align="center">DevOps & Software Engineer </h3>
 <p align="center">
