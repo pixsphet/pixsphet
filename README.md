@@ -56,7 +56,7 @@ I also have a good understanding of related tools and technologies, and I am alw
 </table>
 
 ## 🏆My Stats:
-<p align="center">
+<p>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=pixsphet&show_icons=true&theme=radical&hide_border=true" 
     alt="GitHub Stats" 
