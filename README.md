@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm PHET</h1>
-<h3 align="center">Aspiring DevOps & Software Engineer</h3>
+<h3 align="center">DevOps & Software Engineer </h3>
 <p align="center">
-I am a student seeking an internship position in <b>DevOps</b> or <b>Software Engineering</b>.  
-Passionate about <b>Networks, Security, Operations, and Cloud Computing</b>.  
-Always eager to learn and grow in a collaborative environment.
+I am a student who is seeking an internship position in <b>DevOps</b> or <b>Software Engineering</b>.  
+The reason I am interested in this position is because I have a passion for <b>Network, Security, Operations, and Cloud Computing</b>.  
+I also have a good understanding of related tools and technologies, and I am always eager to learn and grow.
 </p>
 
 ---
